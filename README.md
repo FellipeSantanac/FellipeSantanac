@@ -31,18 +31,16 @@ Onde pode me encontrar:
   </a>
 </div>
 
-
+<!--
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main">Clique aqui</a>
 
-
-
-
 <img width="500" src="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20163540.png?raw=true">
-
 
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main">
   <img width="500" src="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20163540.png?raw=true">
 </a>
+
+-->
 
 
 
