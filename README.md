@@ -46,9 +46,27 @@ Principais desafios: <br>
 - Medir a performance e variação de vendas ao longo do tempo, identificando as principais fontes de crescimento de vendas por cada país e regiões.
 <br>
 <br>
-<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio"> Clique aqui</a> para acessar o repositório no Github
+<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio"> Clique aqui</a> para acessar o repositório no Github.
 <br>
-<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa.
+<br>
+<br>
+
+
+
+### Análise de vendas no Contoso
+<img align="left" width="500"  src="https://github.com/FellipeSantanac/ContosoPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-05%20233508.png?raw=true">
+Projeto para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Principais problemas relatados pelo requisitante: <br>
+- Exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
+- Segmentar dados para medir a performance  por categoria, região, país, canais de vendas e comparando períodos de tempo (YoY, YTD, MoM, MTD) de uma forma simples.<br>
+<br>
+<a href="https://github.com/FellipeSantanac/ContosoPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjEzNDlmYTctNjc3Ny00ZDYxLThmYTAtYWM2MWE4MzAxYjc3IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+
+
 
 
 
