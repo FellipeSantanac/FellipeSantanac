@@ -7,7 +7,7 @@ Sobre mim:
 - 🔭 Atualmente tenho conhecimento em Data Analyst (SQL, PowerBI)
 - 🏠 Atualmente moro Brasil
 - 🌱 Atualmente estou aprendendo Python
-- 💬 Sou graduado em Educação Física (Licenciatura) e tenho pós-graduação Físiologia do Exercício e Treinamento Desportivo
+- 💬 Sou graduado em Educação Física (Licenciatura) e pós-graduado Físiologia do Exercício e Treinamento Desportivo
 
 
 
