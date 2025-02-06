@@ -31,6 +31,24 @@ Onde pode me encontrar:
   </a>
 </div>
 
+<br>
+
+
+
+## Portfólio e Principais Projetos
+
+### Análise de vendas no AdventureWorks
+<img align="right" width="500" src="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20163540.png?raw=true">
+Projeto desenvolvido para análise e entendimento das vendas da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características das vendas da base de dados AdventureWorks.<br>
+- Medir a performance e variação de vendas ao longo do tempo, identificando as principais fontes de crescimento de vendas por cada país e regiões.
+<br>
+<br>
+<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio"> Clique aqui</a> para acessar o repositório no Github
+
+
 <!--
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main">Clique aqui</a>
 
