@@ -47,6 +47,9 @@ Principais desafios: <br>
 <br>
 <br>
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio"> Clique aqui</a> para acessar o repositório no Github
+<br>
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+
 
 
 <!--
