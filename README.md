@@ -63,9 +63,24 @@ Principais problemas relatados pelo requisitante: <br>
 <br>
 <a href="https://github.com/FellipeSantanac/ContosoPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjEzNDlmYTctNjc3Ny00ZDYxLThmYTAtYWM2MWE4MzAxYjc3IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjEzNDlmYTctNjc3Ny00ZDYxLThmYTAtYWM2MWE4MzAxYjc3IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o empresa.
+<br>
 <br>
 
+
+
+### Análise de dados no Chinook
+<img align="right" width="500"  src="https://github.com/FellipeSantanac/ChinookPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20222407.png?raw=true">
+Projeto desenvolvido para análisar dados de vendas da empresa Chinook, utilizando linguagem SQL, para consulta ao banco de dados.
+Principais pontos no projeto: <br>
+- Desenvolver dados de vendas, de custo da empresa como salários e quantidade de vendas realizadas.<br>
+- Detalhar os dados por tipos de áudios, gêneros, vendas de cada país no qual ocorreu mais vendas e que gênero mais foi vendido.<br>
+<br>
+<a href="https://github.com/FellipeSantanac/ChinookPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTFmYzk1NmMtODVhZS00NDliLWIyNTgtM2NjY2YyOWJiZjdkIiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<br>
 
 
 
