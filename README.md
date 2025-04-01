@@ -4,9 +4,9 @@
 
 Sobre mim:
 
-- 🔭 Atualmente tenho conhecimento em Data Analyst (SQL, PowerBI)
+- 🔭 Atualmente tenho conhecimento em Data Analyst (SQL, PowerBI, Fundamentos Básicos de Python)
 - 🏠 Atualmente moro Brasil
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou aprendendo Python para Analise de Dados
 - 💬 Sou graduado em Educação Física (Licenciatura) e pós-graduado Físiologia do Exercício e Treinamento Desportivo
 
 
