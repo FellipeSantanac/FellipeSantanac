@@ -1,6 +1,6 @@
 ### Olá, eu sou o Fellipe 👋
 
-## Analista de dados (em formação)
+## Analista de dados
 
 Sobre mim:
 
